@@ -21,6 +21,19 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://docs.multiprizer.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: multiprizer.io
 github_username:  kombos
+permalink: pretty
+exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile"]
+
+# Enable or disable the site search
+search_enabled: true
+
+# Aux links for the upper right navigation
+aux_links:
+  "Go back to Multiprizer":
+    - "https://multiprizer.io"
+
+# Color scheme currently only supports "dark" or nil (default)
+color_scheme: nill
 
 # Build settings
 markdown: kramdown
