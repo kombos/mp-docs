@@ -3,22 +3,43 @@
     "id": "0",
     "title": "",
     "content": "404 Page not found :( The requested page could not be found.",
-    "url": "https://docs.multiprizer.io/404.html",
-    "relUrl": "/404.html"
+    "url": "https://docs.multiprizer.io/404/",
+    "relUrl": "/404/"
   },
   "1": {
     "id": "1",
-    "title": "About",
-    "content": "This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at jekyllrb.com You can find the source code for Minima at GitHub: jekyll / minima You can find the source code for Jekyll at GitHub: jekyll / jekyll",
-    "url": "https://docs.multiprizer.io/about/",
-    "relUrl": "/about/"
+    "title": "Features",
+    "content": "Features Most Powerful ‘Provable Random’ in Blockchain History Multiprizer uses the most sophisticated Provable Random Number to generate winner - Ledger based random of Oraclize, with on-chain proof verification. This makes compromising the ‘random’ by a malicious player or block miner practically impossible. Highest Level of Decentralization Achieved, making the games robust and tamper-proof his DApp is built with game parameters which make sure that the game cannot be controlled or manipulated by any party, not even the admin or creator of this game. The played tokens can be reverted by players if necessary, before the timer runs out. Play without visiting the site using ‘DirectPlay’ mode Players dont even have to visit the DApp site to play. One can send the token value of a specific game from their Ethereum Wallet to the Contract Address and the player participation gets auto-confirmed. Read More Emphasis on Strategy rather than ‘Random’ based outcome Games are designed such that there is a lot of leverage on how you play, rather than dependence on chance, to maximizes your outcome of victory. The per token probability itself is extremely low, teamed with option to purchase and revert at will, brings strategy as key to victory. Immaculately secure Smart Contract code The Smart Contract follows best-in-class SECUREDESIGN methodology which prevents attacks such as reentrancy, overflow/underflow etc. The contract is also publicly verified. Play Multiprizer",
+    "url": "https://docs.multiprizer.io/features",
+    "relUrl": "/features"
   },
   "2": {
     "id": "2",
-    "title": "",
-    "content": "",
+    "title": "How to Play",
+    "content": "This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at jekyllrb.com You can find the source code for Minima at GitHub: jekyll / minima You can find the source code for Jekyll at GitHub: jekyll / jekyll",
+    "url": "https://docs.multiprizer.io/how-to-play",
+    "relUrl": "/how-to-play"
+  },
+  "3": {
+    "id": "3",
+    "title": "Introduction",
+    "content": "Introduction Multiprizer is a strategy-based game in which a player can choose from multiple gameboards of different game-play, to play their tokens intelligently. The rounds are time-bound, so after the timer runs out, one person is chosen using the most powerful ‘provable random’ in blockchain history - Ledger based random of Oraclize, with on-chain proof verification. The winner gets all the tokens played during that round, after edge. What makes Multiprizer unique is it incorporates complete decentralization that blockchain and peer-to-peer networks imbibe, which means the games cannot be influenced by any individual entity and will run perpetually in the Blockchain based world computer. It also implements the most secure and trust-less platform using best-in-class smart contract design methodology which cannot be tampered with or influenced by malicious players, rogue miners, hardware downtimes or Act of God. Basically, this game can be played from anywhere around the Earth, with complete privacy and anonymity (pseudonymity) and confidence of security and get back your tokens multiplied on victory! Play Multiprizer",
     "url": "https://docs.multiprizer.io/",
     "relUrl": "/"
+  },
+  "4": {
+    "id": "4",
+    "title": "Quick Start",
+    "content": "Quick Start Select one of the game-boards as per the game parameters (timer duration, winning chance, bounty size, total tokens per round, max tokens per player etc.) Enter the number of tokens to purchase in the text field named ‘buy tokens’ and press ‘PAY’ Wait till your purchase is confirmed, after which your purchased tokens start showing along with a ‘Revert’ button. You can choose to revert the tokens any time during the round is on, which will refund your crypto amount and cancel your participation. Once the timer duration expires, the round is closed, and a new round starts. The winner will be chosen and notified in a short while in the notification bar. The winner automatically gets the total token value of that round credited to his/her wallet address, after edge. Play Multiprizer",
+    "url": "https://docs.multiprizer.io/quick-start",
+    "relUrl": "/quick-start"
+  },
+  "5": {
+    "id": "5",
+    "title": "Whitepaper",
+    "content": "Whitepaper will be uploaded soon. It will be downloadable in the form of PDF. Play Multiprizer",
+    "url": "https://docs.multiprizer.io/whitepaper",
+    "relUrl": "/whitepaper"
   }
   
 }
