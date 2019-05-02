@@ -4,7 +4,7 @@ title: Quick Start
 permalink: /quick-start
 nav_order: 2
 ---
-## Quick Start
+# Quick Start
 
 1.	Select one of the game-boards as per the game parameters (timer duration, winning chance, bounty size, total tokens per round, max tokens per player etc.)
 2.	Enter the number of tokens to purchase in the text field named ‘buy tokens’ and press ‘PAY’

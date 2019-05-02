@@ -7,7 +7,7 @@ title: Introduction
 permalink: /
 nav_order: 1
 ---
-## Introduction
+# Introduction
 
 <img src="./img/logo.png" alt="Multiprizer Logo" style="width:400px;" />
 

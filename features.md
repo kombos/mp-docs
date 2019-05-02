@@ -2,24 +2,33 @@
 layout: page
 title: Features
 permalink: /features
-nav_order: 3
+nav_order: 4
 ---
 
-## Features
-### Most Powerful 'Provable Random' in Blockchain History
-Multiprizer uses the most sophisticated Provable Random Number to generate winner - Ledger based random of Oraclize, with on-chain proof verification. This makes compromising the 'random' by a malicious player or block miner practically impossible.
+# Features
+## Most Powerful 'Provable Random' in Blockchain History
+Multiprizer uses the most sophisticated Provable Random Number to generate winner - **Ledger based random of Oraclize, with on-chain proof verification**. This makes compromising the 'random' by a malicious player or block miner practically impossible. [Read More](https://docs.oraclize.it/#security-deepdive-advanced-data-sources)
 
-### Highest Level of Decentralization Achieved, making the games robust and tamper-proof
-his DApp is built with game parameters which make sure that the game cannot be controlled or manipulated by any party, not even the admin or creator of this game. The played tokens can be reverted by players if necessary, before the timer runs out.
+## Highest Level of Decentralization Achieved, making the games robust and tamper-proof
+This DApp is built with game parameters such as **DirectPlay** and a **fixed significant house edge**, which make sure that the game cannot be controlled or manipulated by any party – neither a malicious player, nor rogue miners, not even the admin or creator of this game. Read More
 
-### Play without visiting the site using 'DirectPlay' mode
-Players dont even have to visit the DApp site to play. One can send the token value of a specific game from their Ethereum Wallet to the Contract Address and the player participation gets auto-confirmed. Read More
+## Fairness of Gameplay implementing revision of token purchase
+The game tokens, once purchased, can be undone by the **‘revert’ feature in which all the purchased tokens are cancelled, and the token value returned to the player**. This is applicable at any point in time as long as the timer for that round has not expired.
 
-### Emphasis on Strategy rather than ‘Random’ based outcome
-Games are designed such that there is a lot of leverage on how you play, rather than dependence  on chance, to maximizes your outcome of victory. The per token probability itself is extremely low, teamed with option to purchase and revert at will, brings strategy as key to victory. 
+## Play without visiting the site using 'DirectPlay' mode
+**Players don’t even have to visit the DApp site to play**. One can send the token value of a specific game from their Ethereum Wallet to the Contract Address and the player participation gets auto-confirmed. Read More
 
-### Immaculately secure Smart Contract code
-The Smart Contract follows best-in-class SECUREDESIGN methodology which prevents attacks such as reentrancy, overflow/underflow etc. The contract is also publicly verified.
+## Emphasis on Strategy rather than ‘Random’ based outcome
+Games are designed such that there is a **lot of leverage on how you play, rather than dependence  on chance**, to maximizes your outcome of victory. The per token probability itself is extremely low, teamed with option to purchase and revert at will, brings strategy as key to victory. Read More
+
+## Immaculately secure Smart Contract code
+The Smart Contract follows **best-in-class secure methodology derived from various top standards** such as Consensys, OpenZeppelin etc. which prevents attacks such as re-entrancy, overflow/underflow etc. The contract is also publicly verified, providing full transparency of game algorithm. Read More
+
+## MegaPrize category to pick a lucky winner from historical participants
+The MegaPrize, when activated by admin, uses part of admin’s edge to create **a lucky draw from participants who have at least ones of any Game Board, without reverting**. The winner is again chosen using provable random like game rounds MegaPrize amount automatically credited. Read More
+
+## Consistency of Win Probability and Uninterrupted Game Perpetuity maintained
+The **games cannot be obstructed in any manner** while the round is still on. The game locks can only be implemented by admin on completion of game rounds, so does contract kill. Also, to maintain winning probability, new game boards are added instead of increasing total tokens for a specific game. 
 
 ---
 [Play Multiprizer](https://ropsten.multiprizer.io)
