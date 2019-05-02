@@ -12,5 +12,5 @@ nav_order: 2
 4.	Once the timer duration expires, the round is closed, and a new round starts. The winner will be chosen and notified in a short while in the notification bar. The winner automatically gets the total token value of that round credited to his/her wallet address, after edge.
 
 ---
-[Play Multiprizer](https://ropsten.multiprizer.io)
+[Play Multiprizer](https://multiprizer.io)
 

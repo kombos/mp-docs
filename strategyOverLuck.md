@@ -16,4 +16,4 @@ Also, the probability of winning is significantly high as compared to pure chanc
 
 
 ---
-[Play Multiprizer](https://ropsten.multiprizer.io)
+[Play Multiprizer](https://multiprizer.io)

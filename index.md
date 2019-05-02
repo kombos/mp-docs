@@ -23,6 +23,8 @@ It also implements the most secure and trust-less platform using best-in-class s
 
 Basically, this game can be played from anywhere around the Earth, with complete privacy and anonymity (pseudonymity) and confidence of security and get back your tokens multiplied on victory!
 
+_**Note:** All the examples and illustrations are presented for Ethereum Blockchain, but the same process / mechanism can be used for other Blockchains also._
+
 ---
-[Play Multiprizer](https://ropsten.multiprizer.io)
+[Play Multiprizer](https://multiprizer.io)
 

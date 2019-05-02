@@ -16,4 +16,4 @@ Also, consider the scenario that the website itself is housed in a hosting space
 
 
 ---
-[Play Multiprizer](https://ropsten.multiprizer.io)
+[Play Multiprizer](https://multiprizer.io)

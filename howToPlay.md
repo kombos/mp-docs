@@ -26,4 +26,4 @@ nav_order: 5
 <GameDetails and Notifications>
 
 ---
-[Play Multiprizer](https://ropsten.multiprizer.io)
+[Play Multiprizer](https://multiprizer.io)
