@@ -6,9 +6,16 @@ nav_order: 3
 ---
 # DirectPlay
 
-_**Note:** The below examples are illustrated for Ethereum Blockchain. The same equivalent mechanism can be used for other blockchains also_
+_**Note:** The below examples are illustrated for Ethereum Blockchain. The same equivalent mechanism can be used for other blockchains also. Also, DirectPlay is an option that is enabled by the admin, hence if DirectPlay transactions are reverting, that would be because it has been disabled by admin._
 
-As part of the decentralized nature of this App, this game can be played without even visiting the website/ DApp site. One can directly send a certain amount of crypto directly from one’s Ethereum wallet (eg. MyEtherWallet, MyCrypto, Blockchain.info wallet etc.) to the contract address **(0xA9655E83C54716c242650441F9AebCd8358cff7c)**, with gas limit set as **123456**, and Gas Price between **5GWei to 20GWei**, and the smart contract will automatically purchase tokens for the player and auto-confirm his/her participation. The amount of ethers to send as total token value has to be exactly the total value of token(s) to purchase. The token value chart for three default gameBoards is shown in the table below. 
+As part of the decentralized nature of this App, this game can be played without even visiting the website/ DApp site. One can directly send a certain amount of crypto directly from one’s Ethereum wallet (eg. MyEtherWallet, MyCrypto, Blockchain.info wallet etc.) to the contract address, with gas limit set as **123456**, and Gas Price between **5GWei to 20GWei**, and the smart contract will automatically purchase tokens for the player and auto-confirm his/her participation. The Contract Addresses for various blockchains are: 
+
+`Ethereum Mainnet: 0xA9655E83C54716c242650441F9AebCd8358cff7c`
+
+`Ethereum Ropsten (testnet): 0xA9655E83C54716c242650441F9AebCd8358cff7c`
+
+
+The amount of ethers to send as total token value has to be exactly the total value of token(s) to purchase. The token value chart for three default gameBoards is shown in the table below. 
 
 |    Tokens to Buy    |    Total Value in Ethers for BountyBox (GameID: 102)    |    Tokens to Buy    |    Total Value in Ethers for TokenArmy (GameID: 103)    |    Tokens to Buy    |    Total Value in Ethers for WhaleTank (GameID: 105)    |
 |---------------------|------------------------------------------------------------|---------------------|------------------------------------------------------------|---------------------|------------------------------------------------------------|
@@ -79,7 +86,7 @@ Please note that Gas Limit mentioned (123456) may not be fully consumed and henc
 
 ## Withdraw Winnings using DirectPlay
 
-You can even withdraw your winnings using DirectPlay. This, firstly, requires a scenario where your winnings have not been automatically transferred to your Ethereum address due to some hypothetical and improbable circumstance. Hence, in case your winning amount (if any) is pending in the withdraw records of the contract, this can be withdrawn by sending a small token value **(0.00023456 eth OR 234560000000000 wei)** to the Multiprizer Contract Address **(0xA9655E83C54716c242650441F9AebCd8358cff7c)**. The Gas Limit has to be set as **65432**, or an amount greater than that. The Gas Price can be any value **between 5GWei and 20GWei**, as per your priority of transaction. Thus, you set the following parameters in your Ethereum wallet and send the ether amount:
+You can even withdraw your winnings using DirectPlay. This, firstly, requires a scenario where your winnings have not been automatically transferred to your Ethereum address due to some hypothetical and improbable circumstance. Hence, in case your winning amount (if any) is pending in the withdraw records of the contract, this can be withdrawn by sending a small token value **(0.00023456 eth OR 234560000000000 wei)** to the Multiprizer Contract Address. The Gas Limit has to be set as **65432**, or an amount greater than that. The Gas Price can be any value **between 5GWei and 20GWei**, as per your priority of transaction. Thus, you set the following parameters in your Ethereum wallet and send the ether amount:
 
 | Transaction   Parameter | Parameter Value                              |
 |-------------------------|----------------------------------------------|
