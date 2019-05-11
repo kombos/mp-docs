@@ -186,11 +186,11 @@
 
 <p><em><strong>Note:</strong> The below examples are illustrated for Ethereum Blockchain. The same equivalent mechanism can be used for other blockchains also. Also, DirectPlay is an option that is enabled by the admin, hence if DirectPlay transactions are reverting, that would be because it has been disabled by admin.</em></p>
 
-<p>As part of the decentralized nature of this App, this game can be played without even visiting the website/ DApp site. One can directly send a certain amount of crypto directly from one’s Ethereum wallet (eg. MyEtherWallet, MyCrypto, Blockchain.info wallet etc.) to the contract address, with gas limit set as <strong>123456</strong>, and Gas Price between <strong>5GWei to 20GWei</strong>, and the smart contract will automatically purchase tokens for the player and auto-confirm his/her participation. The Contract Addresses for various blockchains are:</p>
+<p>As part of the decentralized nature of this App, this game can be played without even visiting the website/ DApp site. One can directly send a certain amount of crypto directly from one’s Ethereum wallet (eg. MyEtherWallet, MyCrypto, Blockchain.info wallet etc.) to the contract address, with gas limit set as <strong>234567</strong>, and Gas Price between <strong>3Gwei to 20GWei</strong>, and the smart contract will automatically purchase tokens for the player and auto-confirm his/her participation. The <strong>Multiprizer</strong> Contracts are deployed in the following addresses:</p>
 
-<p><code class="highlighter-rouge">Ethereum Mainnet: 0xA9655E83C54716c242650441F9AebCd8358cff7c</code></p>
+<p><code class="highlighter-rouge">Ethereum Mainnet: 0x4E0C7a80dBf4aCdD6F020c3dD796Ef5b97D26Ed0</code></p>
 
-<p><code class="highlighter-rouge">Ethereum Ropsten (testnet): 0xA9655E83C54716c242650441F9AebCd8358cff7c</code></p>
+<p><code class="highlighter-rouge">Ethereum Ropsten (testnet): 0x44cd9Cf21c589ac9D92a18782771485aF02250F9</code></p>
 
 <p>The amount of ethers to send as total token value has to be exactly the total value of token(s) to purchase. The token value chart for three default gameBoards is shown in the table below.</p>
 
@@ -449,7 +449,7 @@
   </tbody>
 </table>
 
-<h2 id="examples-of-directplay-purchases">Examples of DirectPlay Purchases</h2>
+<h2 id="examples-of-directplay-purchases-ethereum-mainnet">Examples of DirectPlay Purchases (Ethereum Mainnet)</h2>
 
 <ul>
   <li>If you want to purchase 2 tokens of Game Board called Bounty Box whose game ID is 102, the token value is 0.01 ether per token, and the total amount to send will be 0.02 ethers (0.01 * 2). Then you set the following parameters in your Ethereum wallet and send the ether amount:</li>
@@ -469,7 +469,7 @@
     </tr>
     <tr>
       <td>To:</td>
-      <td>0xA9655E83C54716c242650441F9AebCd8358cff7c</td>
+      <td>0x4E0C7a80dBf4aCdD6F020c3dD796Ef5b97D26Ed0</td>
     </tr>
     <tr>
       <td>Exact amount to send:</td>
@@ -477,11 +477,11 @@
     </tr>
     <tr>
       <td>Gas Limit:</td>
-      <td>123456</td>
+      <td>234567</td>
     </tr>
     <tr>
       <td>Gas Price:</td>
-      <td>5GWei to 20GWei (depending on your priority)</td>
+      <td>3Gwei to 20GWei (depending on your priority)</td>
     </tr>
   </tbody>
 </table>
@@ -504,7 +504,7 @@
     </tr>
     <tr>
       <td>To:</td>
-      <td>0xA9655E83C54716c242650441F9AebCd8358cff7c</td>
+      <td>0x4E0C7a80dBf4aCdD6F020c3dD796Ef5b97D26Ed0</td>
     </tr>
     <tr>
       <td>Exact amount to send:</td>
@@ -512,11 +512,11 @@
     </tr>
     <tr>
       <td>Gas Limit:</td>
-      <td>123456</td>
+      <td>234567</td>
     </tr>
     <tr>
       <td>Gas Price:</td>
-      <td>5GWei to 20GWei (depending on your priority)</td>
+      <td>3Gwei to 20GWei (depending on your priority)</td>
     </tr>
   </tbody>
 </table>
@@ -539,7 +539,7 @@
     </tr>
     <tr>
       <td>To:</td>
-      <td>0xA9655E83C54716c242650441F9AebCd8358cff7c</td>
+      <td>0x4E0C7a80dBf4aCdD6F020c3dD796Ef5b97D26Ed0</td>
     </tr>
     <tr>
       <td>Exact amount to send:</td>
@@ -547,20 +547,20 @@
     </tr>
     <tr>
       <td>Gas Limit:</td>
-      <td>123456</td>
+      <td>234567</td>
     </tr>
     <tr>
       <td>Gas Price:</td>
-      <td>5GWei to 20GWei (depending on your priority)</td>
+      <td>3Gwei to 20GWei (depending on your priority)</td>
     </tr>
   </tbody>
 </table>
 
-<p>Please note that Gas Limit mentioned (123456) may not be fully consumed and hence, the remaining gas will be automatically refunded to players. Also, any invalid ether value sent is refunded back to the player automatically, along with remaining gas.</p>
+<p>Please note that Gas Limit mentioned (234567) may not be fully consumed and hence, the remaining gas will be automatically refunded to players. Also, any invalid ether value sent is refunded back to the player automatically, along with remaining gas.</p>
 
 <h2 id="withdraw-winnings-using-directplay">Withdraw Winnings using DirectPlay</h2>
 
-<p>You can even withdraw your winnings using DirectPlay. This, firstly, requires a scenario where your winnings have not been automatically transferred to your Ethereum address due to some hypothetical and improbable circumstance. Hence, in case your winning amount (if any) is pending in the withdraw records of the contract, this can be withdrawn by sending a small token value <strong>(0.00023456 eth OR 234560000000000 wei)</strong> to the Multiprizer Contract Address. The Gas Limit has to be set as <strong>65432</strong>, or an amount greater than that. The Gas Price can be any value <strong>between 5GWei and 20GWei</strong>, as per your priority of transaction. Thus, you set the following parameters in your Ethereum wallet and send the ether amount:</p>
+<p>You can even withdraw your winnings using DirectPlay. This, firstly, requires a scenario where your winnings have not been automatically transferred to your Ethereum address due to some hypothetical and improbable circumstance. Hence, in case your winning amount (if any) is pending in the withdraw records of the contract, this can be withdrawn by sending a small token value <strong>(0.00023456 eth OR 234560000000000 wei)</strong> to the Multiprizer Contract Address. The Gas Limit has to be set as <strong>65432</strong>, or an amount greater than that. The Gas Price can be any value <strong>between 3Gwei and 20GWei</strong>, as per your priority of transaction. Thus, you set the following parameters in your Ethereum wallet and send the ether amount:</p>
 
 <table>
   <thead>
@@ -576,7 +576,7 @@
     </tr>
     <tr>
       <td>To:</td>
-      <td>0xA9655E83C54716c242650441F9AebCd8358cff7c</td>
+      <td>0x4E0C7a80dBf4aCdD6F020c3dD796Ef5b97D26Ed0</td>
     </tr>
     <tr>
       <td>Exact amount to send:</td>
@@ -588,12 +588,12 @@
     </tr>
     <tr>
       <td>Gas Price:</td>
-      <td>5GWei to 20GWei (depending on your priority)</td>
+      <td>3Gwei to 20GWei (depending on your priority)</td>
     </tr>
   </tbody>
 </table>
 
-<p>Please note that if you don’t have any pending amounts in the withdraw record, the transaction will be reverted and the remaining gas refunded after consuming certain gas to check the records. Hence only use the DirectPlay Withdraw feature if you are sure there is pending winning amount that you need to claim. In case there is pending winning amount to withdraw, sending this transaction will automatically initiate transfer of amount (pending withdraw amount plus the amount you sent in the DirectPlay transfer, i.e 0.00023456) from the Multiprizer Contract to your account. Also, the transaction may take less than 65432 gas, in which case, the remaining gas will be refunded back to you.</p>
+<p>Please note that DirectPlay is not applicable for reverting tokens and hence for that, you will have to visit the game site. Also, if you don’t have any pending amounts in the withdraw record, the transaction will be reverted and the remaining gas refunded after consuming certain gas to check the records. Hence only use the DirectPlay Withdraw feature if you are sure there is pending winning amount that you need to claim. In case there is pending winning amount to withdraw, sending this transaction will automatically initiate transfer of amount (pending withdraw amount plus the amount you sent in the DirectPlay transfer, i.e 0.00023456) from the Multiprizer Contract to your account. Also, the transaction may take less than 65432 gas, in which case, the remaining gas will be refunded back to you.</p>
 
 <hr />
 <p><a href="https://multiprizer.io">Play Multiprizer</a></p>
