@@ -10,9 +10,10 @@ Multiprizer is quite easy to play!
 
 Visit one of these sites to play Multiprizer in Ropsten Testnet or Ethereum Mainnet:
 
-| Ethereum Mainnet | https://ethereum.multiprizer.io |
+| Network          | DApp URL                        |
 |------------------|---------------------------------|
-| Ropsten Testnet  | https://ropsten.multiprizer.io  |
+| Ethereum Mainnet | [https://ethereum.multiprizer.io](https://ethereum.multiprizer.io) |
+| Ropsten Testnet  | [https://ropsten.multiprizer.io](https://ropsten.multiprizer.io)  |
 
 * Analyse all the game boards that are present and check the game parameters – Total tokens, max tokens per player, round duration, bounty size, probability of winning etc. Then you choose one or more of the game boards and purchase one or more tokens. The more tokens you purchase, the more your weighted probability to win.
 

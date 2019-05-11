@@ -10,9 +10,10 @@ nav_order: 2
 
 Visit one of these sites to play Multiprizer in Ropsten Testnet or Ethereum Mainnet:
 
-| Ethereum Mainnet | https://ethereum.multiprizer.io |
+| Network          | DApp URL                        |
 |------------------|---------------------------------|
-| Ropsten Testnet  | https://ropsten.multiprizer.io  |
+| Ethereum Mainnet | [https://ethereum.multiprizer.io](https://ethereum.multiprizer.io) |
+| Ropsten Testnet  | [https://ropsten.multiprizer.io](https://ropsten.multiprizer.io)  |
 
 1.	Select one of the game-boards as per the game parameters (timer duration, winning chance, bounty size, total tokens per round, max tokens per player etc.)
 2.	Enter the number of tokens to purchase in the text field named ‘buy tokens’ and press ‘PAY’. In the payment window, you can choose to keep Gas Price between 3Gwei and 20GWei.
