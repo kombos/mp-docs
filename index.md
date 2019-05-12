@@ -20,7 +20,7 @@ What makes Multiprizer unique is, it incorporates complete decentralization that
 It also implements the most secure and trust-less gameplay platform using best-in-class smart contract design methodology which cannot be tampered with or influenced by malicious players, rogue miners, hardware downtimes or Act of God.
 
 
-<img src="./img/gameBoard.png" alt="Game Board" style="width:400px;" />
+<img src="./img/screenshot.png" alt="Game Board" style="width:720px;" />
 
 Basically, this game can be played from anywhere around the Earth, with complete privacy and anonymity (pseudonymity) and confidence of security and get back your tokens multiplied on victory!
 
