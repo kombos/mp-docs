@@ -31,4 +31,5 @@ One could analyze the event arguments of the event object emitted from the above
 
 
 ---
-[Play Multiprizer](https://multiprizer.io)
+Next:
+[Decentralization](/decentralization)

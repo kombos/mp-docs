@@ -15,4 +15,5 @@ There is no weightage for the number of games a player has played, or total toke
 
 
 ---
-[Play Multiprizer](https://multiprizer.io)
+Next:
+[Security](/security)

@@ -8,12 +8,18 @@ nav_order: 5
 
 Multiprizer is quite easy to play! 
 
-Visit one of these sites to play Multiprizer in Ropsten Testnet or Ethereum Mainnet:
+### 1). First things first, make sure you have Metamask or Trust Wallet with suffecient **_Ethers_**:
+This dApp requires **[Metamask](https://metamask.io/)** Extension if you are playing from desktop / laptop, or **[Trust Wallet](https://trustwallet.com/)** if you are playing from a mobile device. Once you have installed it, you need to create a new wallet (or use existing wallet) and get _ethers_ (Ethereum Cryptocurrency). 
+
+### 2). Lets Go to the site and Play!
+Visit one of sites below to play Multiprizer. Make sure you set your Metamask / Trust Wallet to whichever network you chose below (Ethereum Mainnet or Ropsten Testnet). **Ethereum Mainnet** contains the production dApp where real ethers are used to play. In case you dont want to spend real ethers right now, you could choose to play in **Ropsten Testnet** after getting some test ethers (which have no intrinsic value). To get free test ethers, visit **[Metamask Faucet](https://faucet.metamask.io/)** or **[Ropsten Faucet](https://faucet.ropsten.be/)**.  
 
 | Network          | DApp URL                        |
 |------------------|---------------------------------|
 | Ethereum Mainnet | [https://ethereum.multiprizer.io](https://ethereum.multiprizer.io) |
 | Ropsten Testnet  | [https://ropsten.multiprizer.io](https://ropsten.multiprizer.io)  |
+
+### 3). Steps to play
 
 * Analyse all the game boards that are present and check the game parameters – Total tokens, max tokens per player, round duration, bounty size, probability of winning etc. Then you choose one or more of the game boards and purchase one or more tokens. The more tokens you purchase, the more your weighted probability to win.
 
@@ -40,7 +46,5 @@ Visit one of these sites to play Multiprizer in Ropsten Testnet or Ethereum Main
 <img src="./img/notifications.png" alt="Notifications" style="width:600px;" />
 
 ---
-[Play Multiprizer](https://multiprizer.io)
-
-
-
+Next:
+[MegaPrize](/megaprize)

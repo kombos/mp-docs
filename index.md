@@ -43,5 +43,5 @@ _**Note:** All the examples and illustrations are presented for Ethereum Blockch
 
 
 ---
-[Play Multiprizer](https://multiprizer.io)
-
+Next:
+[Quick Start](/quick-start)

@@ -16,4 +16,5 @@ Also, the probability of winning is significantly high as compared to pure chanc
 
 
 ---
-[Play Multiprizer](https://multiprizer.io)
+Next:
+[Whitepaper](/whitepaper)

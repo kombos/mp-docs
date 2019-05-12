@@ -16,4 +16,5 @@ Also, consider the scenario that the website itself is housed in a hosting space
 
 
 ---
-[Play Multiprizer](https://multiprizer.io)
+Next:
+[Strategy over Luck](/strategy-over-luck)

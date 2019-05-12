@@ -100,4 +100,5 @@ You can even withdraw your winnings using DirectPlay. This, firstly, requires a 
 Please note that DirectPlay is not applicable for reverting tokens and hence for that, you will have to visit the game site. Also, if you don’t have any pending amounts in the withdraw record, the transaction will be reverted and the remaining gas refunded after consuming certain gas to check the records. Hence only use the DirectPlay Withdraw feature if you are sure there is pending winning amount that you need to claim. In case there is pending winning amount to withdraw, sending this transaction will automatically initiate transfer of amount (pending withdraw amount plus the amount you sent in the DirectPlay transfer, i.e 0.00023456) from the Multiprizer Contract to your account. Also, the transaction may take less than 65432 gas, in which case, the remaining gas will be refunded back to you. 
 
 ---
-[Play Multiprizer](https://multiprizer.io)
+Next:
+[Features](/features)

@@ -31,6 +31,5 @@ The MegaPrize uses part of admin’s edge to create **a lucky draw for participa
 The **games cannot be obstructed in any manner** while the round is still on. The game locks can only be implemented by admin on completion of game rounds, so does contract kill. Also, to maintain consistent win probability, new game boards are added instead of increasing total tokens for a specific game. 
 
 ---
-[Play Multiprizer](https://multiprizer.io)
-
-
+Next:
+[How to Play (detailed)](/how-to-play)
